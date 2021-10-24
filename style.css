@@ -1,0 +1,29 @@
+img{
+   margin: 100px;
+   margin-left: 50px;
+   width: 30%;
+   height: 30%;
+   margin-top: 200px;
+   margin-right: 50px;
+}
+body{
+    background-color: whitesmoke;
+}
+.nav-control{
+    height: 33px;
+    padding: 0 10px;
+    border-radius: 3px;
+    border:0px;
+    margin-right: 10px;
+}
+.btn {
+    display: inline-block;
+    height: 33px;
+    padding: 0 10px;
+    border-radius: 3px;
+    background: var(--colorlawngreen);
+    color: var(--colorBlack);
+    border: 0px;
+}
+
+
